@@ -14,4 +14,3 @@ if (playerOne > playerTwo) {
 } else {
   document.querySelector("h1").textContent = "Draw 🎌";
 }
-// The code simulates a dice roll for two players and updates the webpage to show the result of the game.
